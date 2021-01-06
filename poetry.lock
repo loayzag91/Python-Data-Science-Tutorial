@@ -1236,8 +1236,8 @@ python-versions = "*"
 
 [metadata]
 lock-version = "1.1"
-python-versions = "^3.8"
-content-hash = "289730d10e86797038e378ebd65bf0751744bf8183ade8e1a3f79bf2e75ac9d4"
+python-versions = "~3.8"
+content-hash = "8566ca0448da0172be34894d571ad6cd228052517941c9d26653b110aa376a1f"
 
 [metadata.files]
 absl-py = [
